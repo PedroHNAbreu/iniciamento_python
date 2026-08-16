@@ -23,7 +23,7 @@ def obter_numero(pergunta="Insira um numero\n>"):
             
 ficha = {}
 
-quantidade = obter_numero("\nquantos perfis você deseja adicionar?\n[ quantidade máxima de 10 pessoas ]\n\n>")
+quantidade = obter_numero("\nquantos perfis você deseja adicionar?\n\n>")
 informações = obter_numero("quantos dados cada perfil terá?\n>")
 
 
